@@ -1,0 +1,244 @@
+customer_id,signup_date,region,acquisition_channel,loyalty_tier
+C000024,2025-04-10,South,Organic,Platinum
+C000030,2025-08-05,South,Organic,None
+C000043,2024-11-25,South,Organic,None
+C000044,2022-02-13,East,Organic,None
+C000048,2025-03-15,East,Organic,None
+C000085,2022-03-23,West,Organic,None
+C000089,2022-02-20,North,Email,Gold
+C000106,2024-02-16,East,Email,Silver
+C000113,2022-04-05,South,Paid Search,Gold
+C000117,2024-05-20,North,Referral,Silver
+C000141,2023-12-18,North,Organic,Platinum
+C000145,2024-01-26,North,Paid Social,Silver
+C000171,2022-07-25,West,Organic,None
+C000188,2025-09-16,West,Organic,None
+C000195,2025-10-12,West,Paid Social,Platinum
+C000209,2024-04-15,North,Email,Gold
+C000223,2025-04-23,South,Organic,Gold
+C000226,2023-06-27,South,Paid Social,Silver
+C000259,2022-08-10,East,Paid Search,Silver
+C000265,2025-01-11,South,Referral,None
+C000274,2025-04-15,North,Email,None
+C000275,2022-10-30,West,Paid Social,None
+C000291,2022-07-14,South,Organic,None
+C000298,2022-11-13,East,Organic,None
+C000304,2022-10-21,East,Paid Search,None
+C000309,2022-06-17,South,Paid Social,Silver
+C000378,2025-01-02,North,Paid Search,None
+C000379,2022-10-22,South,Organic,None
+C000381,2024-01-09,North,Paid Search,Silver
+C000394,2024-03-30,East,Email,None
+C000402,2022-04-28,North,Paid Social,None
+C000430,2025-08-05,North,Email,None
+C000445,2022-11-23,East,Paid Search,Silver
+C000459,2023-11-03,West,Organic,None
+C000462,2022-02-04,South,Paid Social,Platinum
+C000473,2024-12-27,South,Paid Search,Silver
+C000476,2023-09-02,West,Referral,Silver
+C000483,2022-08-12,East,Paid Social,None
+C000493,2023-08-16,West,Organic,Silver
+C000501,2023-01-14,West,Paid Search,Gold
+C000506,2023-09-29,East,Paid Social,Gold
+C000535,2025-03-25,South,Paid Social,Silver
+C000564,2025-01-15,West,Email,Silver
+C000573,2023-01-29,East,Organic,None
+C000579,2024-06-07,East,Paid Search,Platinum
+C000601,2025-02-19,West,Email,Silver
+C000608,2024-06-20,South,Referral,Gold
+C000611,2023-10-16,South,Paid Social,Silver
+C000622,2023-05-24,East,Paid Search,Silver
+C000638,2023-02-09,South,Paid Search,None
+C000654,2024-06-28,South,Organic,None
+C000669,2024-04-22,West,Email,Gold
+C000679,2023-08-04,South,Paid Social,Silver
+C000686,2025-08-21,North,Paid Search,None
+C000690,2022-09-04,West,Paid Search,None
+C000713,2025-08-23,East,Organic,Silver
+C000725,2022-01-26,South,Paid Search,None
+C000757,2022-10-14,North,Organic,Gold
+C000761,2024-06-27,West,Organic,Gold
+C000780,2025-03-08,East,Paid Social,None
+C000797,2023-11-10,East,Organic,Platinum
+C000801,2022-08-10,East,Organic,None
+C000803,2024-02-15,South,Paid Search,Gold
+C000814,2022-04-22,South,Paid Search,None
+C000820,2023-06-24,South,Organic,Gold
+C000839,2022-03-18,North,Paid Search,Silver
+C000872,2024-10-15,West,Organic,None
+C000873,2024-03-06,East,Paid Social,Platinum
+C000916,2023-06-09,East,Paid Search,Platinum
+C000920,2022-04-04,North,Organic,Silver
+C000924,2024-09-06,West,Paid Social,Gold
+C000937,2024-08-19,West,Email,None
+C000946,2024-01-15,West,Referral,Gold
+C000955,2025-10-08,East,Referral,None
+C000962,2023-05-24,South,Email,Platinum
+C000964,2024-11-15,South,Referral,Gold
+C000969,2024-09-10,East,Email,Silver
+C000984,2022-12-30,West,Organic,Platinum
+C000995,2025-08-22,North,Paid Social,None
+C001030,2024-05-27,North,Organic,Gold
+C001033,2023-09-18,South,Organic,Silver
+C001034,2022-06-17,West,Email,None
+C001051,2024-02-15,South,Paid Social,Gold
+C001069,2024-02-14,South,Organic,None
+C001078,2023-04-22,West,Organic,Silver
+C001079,2025-01-18,South,Organic,Silver
+C001094,2024-03-31,East,Paid Search,Silver
+C001121,2024-10-05,East,Referral,Silver
+C001133,2023-07-27,South,Paid Social,Platinum
+C001135,2025-02-11,South,Paid Search,None
+C001178,2022-07-29,South,Organic,None
+C001179,2022-01-17,North,Organic,Silver
+C001185,2023-05-25,South,Email,None
+C001188,2023-10-02,West,Organic,Silver
+C001194,2022-11-14,South,Organic,None
+C001203,2025-05-11,West,Paid Social,None
+C001209,2025-02-03,North,Organic,None
+C001228,2023-10-25,East,Paid Social,None
+C001229,2025-01-31,West,Organic,Platinum
+C001232,2023-09-11,North,Email,None
+C001241,2025-03-26,South,Referral,Gold
+C001251,2024-06-08,West,Organic,None
+C001255,2025-03-25,North,Paid Social,None
+C001269,2025-09-13,South,Organic,None
+C001277,2024-03-03,West,Referral,None
+C001283,2022-10-11,East,Paid Social,None
+C001298,2025-10-06,West,Referral,None
+C001306,2025-02-16,South,Referral,Platinum
+C001338,2025-07-12,East,Organic,Silver
+C001340,2025-05-31,West,Organic,Silver
+C001343,2025-06-02,North,Organic,None
+C001354,2022-04-25,West,Organic,Silver
+C001355,2023-10-09,East,Organic,Silver
+C001386,2025-06-17,South,Paid Search,None
+C001392,2024-12-27,South,Paid Social,None
+C001402,2025-07-26,West,Referral,Silver
+C001411,2023-10-14,East,Paid Search,None
+C001424,2022-10-18,East,Paid Search,Gold
+C001464,2023-10-25,South,Referral,None
+C001481,2023-01-27,South,Paid Search,None
+C001486,2024-07-09,West,Organic,None
+C001509,2025-02-16,North,Organic,Silver
+C001524,2023-02-02,East,Email,None
+C001526,2022-08-16,West,Paid Search,None
+C001528,2025-07-30,West,Email,Silver
+C001530,2024-09-28,West,Organic,None
+C001536,2022-07-20,South,Organic,Silver
+C001548,2022-08-16,South,Paid Search,None
+C001574,2025-02-25,East,Paid Social,Platinum
+C001600,2024-10-01,North,Referral,Gold
+C001611,2025-07-27,West,Paid Search,None
+C001636,2022-05-20,North,Paid Social,None
+C001642,2024-04-14,North,Email,None
+C001655,2025-04-06,East,Referral,Gold
+C001658,2022-09-08,South,Paid Search,Silver
+C001665,2022-02-06,West,Organic,None
+C001670,2025-10-14,East,Paid Social,Silver
+C001679,2022-08-23,South,Organic,None
+C001684,2024-10-26,West,Paid Social,None
+C001717,2024-12-28,South,Email,None
+C001727,2024-06-17,East,Email,Silver
+C001732,2025-01-26,East,Paid Search,None
+C001744,2022-11-02,North,Paid Search,Gold
+C001750,2025-10-18,North,Organic,Gold
+C001758,2022-04-04,North,Paid Search,None
+C001782,2024-07-16,South,Referral,Silver
+C001787,2024-04-04,South,Referral,Silver
+C001795,2024-10-11,East,Paid Social,None
+C001798,2023-05-25,East,Organic,None
+C001804,2023-09-02,South,Referral,Silver
+C001817,2022-02-14,North,Email,Silver
+C001825,2022-05-05,East,Paid Search,None
+C001827,2022-08-28,East,Email,None
+C001828,2024-06-12,North,Organic,None
+C001831,2024-08-17,North,Organic,Silver
+C001839,2024-10-28,North,Organic,None
+C001893,2022-10-20,North,Paid Social,None
+C001899,2024-07-10,East,Organic,Silver
+C001919,2024-10-06,East,Paid Search,Gold
+C001921,2024-09-18,North,Paid Social,Gold
+C001933,2025-02-13,West,Email,None
+C001941,2025-08-22,East,Paid Search,Gold
+C001949,2022-01-15,North,Referral,None
+C001993,2023-03-13,North,Referral,Platinum
+C002000,2023-06-21,West,Organic,Silver
+C002009,2023-05-22,North,Referral,Gold
+C002010,2024-11-06,West,Email,None
+C002035,2024-08-17,East,Paid Search,Gold
+C002040,2023-04-07,South,Paid Social,None
+C002053,2024-03-07,West,Email,None
+C002084,2023-05-04,North,Organic,None
+C002099,2025-09-26,South,Paid Search,Silver
+C002116,2023-09-30,North,Organic,None
+C002131,2023-12-15,East,Paid Search,Silver
+C002149,2022-05-01,East,Referral,None
+C002154,2022-01-15,East,Referral,None
+C002161,2022-10-12,North,Organic,Silver
+C002166,2025-10-20,South,Paid Social,None
+C002167,2025-06-08,West,Paid Search,Gold
+C002181,2024-02-12,West,Referral,Silver
+C002210,2022-04-26,North,Email,None
+C002218,2025-10-01,West,Organic,Silver
+C002227,2025-02-10,South,Organic,None
+C002242,2025-09-08,East,Paid Search,None
+C002243,2022-11-11,South,Referral,None
+C002247,2023-07-15,North,Paid Search,Platinum
+C002249,2024-12-14,East,Organic,Gold
+C002260,2023-04-14,South,Email,Gold
+C002265,2022-10-07,South,Paid Search,Platinum
+C002288,2023-11-10,West,Organic,None
+C002294,2023-04-30,North,Referral,None
+C002317,2022-07-22,North,Paid Social,None
+C002321,2022-08-29,West,Organic,None
+C002322,2024-10-28,West,Organic,None
+C002329,2024-12-11,South,Email,None
+C002336,2023-06-25,East,Paid Search,Silver
+C002347,2025-08-19,South,Organic,Gold
+C002352,2022-01-28,West,Paid Social,None
+C002374,2024-02-28,South,Paid Search,Silver
+C002399,2022-06-08,West,Paid Search,None
+C002403,2023-05-06,South,Paid Social,None
+C002427,2022-10-15,West,Email,Silver
+C002433,2025-02-22,North,Email,None
+C002450,2024-08-31,East,Referral,Platinum
+C002453,2025-09-29,East,Organic,Silver
+C002457,2022-09-15,East,Paid Social,Silver
+C002466,2022-11-30,East,Paid Search,Gold
+C002473,2023-02-05,West,Email,None
+C002480,2025-03-17,West,Organic,Platinum
+C002484,2023-04-19,North,Referral,Silver
+C002512,2024-03-15,North,Referral,Silver
+C002515,2025-06-29,North,Paid Search,None
+C002530,2023-04-30,East,Organic,Silver
+C002541,2024-01-26,West,Paid Search,None
+C002545,2024-08-01,North,Organic,None
+C002551,2025-08-18,East,Organic,None
+C002566,2023-07-20,East,Paid Search,None
+C002587,2022-08-19,South,Paid Search,Silver
+C002615,2024-10-28,West,Referral,None
+C002618,2022-10-15,East,Organic,None
+C002633,2023-01-12,West,Email,Silver
+C002716,2023-11-30,East,Paid Social,Gold
+C002740,2022-10-21,North,Paid Social,None
+C002779,2023-03-08,South,Organic,Gold
+C002787,2024-05-23,East,Paid Search,Gold
+C002796,2025-07-06,North,Paid Social,None
+C002809,2022-08-21,South,Paid Search,None
+C002813,2023-10-13,South,Referral,None
+C002814,2023-06-18,West,Organic,Silver
+C002851,2022-01-28,North,Referral,None
+C002857,2022-10-17,South,Paid Social,Gold
+C002879,2023-12-29,South,Paid Search,Silver
+C002914,2023-07-26,North,Organic,None
+C002926,2023-10-23,East,Paid Social,Gold
+C002935,2025-04-29,North,Paid Search,Gold
+C002950,2025-05-31,North,Organic,None
+C002955,2024-09-11,North,Email,None
+C002958,2024-04-08,West,Organic,None
+C002982,2023-09-13,East,Paid Search,Gold
+C002988,2025-07-24,South,Organic,None
+C002994,2022-12-15,East,Organic,None
+C002995,2025-03-16,West,Paid Social,Silver
+C002997,2023-09-15,South,Organic,Silver

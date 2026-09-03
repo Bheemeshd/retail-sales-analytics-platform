@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "seed": 42,
+  "date_range": [
+    "2024-01-01",
+    "2025-12-31"
+  ],
+  "counts": {
+    "customers": 3000,
+    "products": 120,
+    "stores": 24,
+    "campaigns": 16,
+    "orders": 18000,
+    "order_lines": 32297
+  },
+  "grain": {
+    "orders": "one row per order",
+    "order_lines": "one row per order-product line"
+  }
+}

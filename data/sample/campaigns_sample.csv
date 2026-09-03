@@ -1,0 +1,17 @@
+campaign_id,campaign_name,marketing_channel,start_date,end_date,spend
+CMP001,Email Wave 1,Email,2024-01-08,2024-02-04,17131.27
+CMP002,Paid Search Wave 1,Paid Search,2024-02-22,2024-03-20,17255.60
+CMP003,Paid Social Wave 1,Paid Social,2024-04-07,2024-05-04,25125.84
+CMP004,Affiliate Wave 1,Affiliate,2024-05-22,2024-06-18,13393.47
+CMP005,Email Wave 2,Email,2024-07-06,2024-08-02,23610.70
+CMP006,Paid Search Wave 2,Paid Search,2024-08-20,2024-09-16,12482.40
+CMP007,Paid Social Wave 2,Paid Social,2024-10-04,2024-10-31,12955.19
+CMP008,Affiliate Wave 2,Affiliate,2024-11-18,2024-12-15,18102.76
+CMP009,Email Wave 3,Email,2025-01-02,2025-01-29,13558.47
+CMP010,Paid Search Wave 3,Paid Search,2025-02-16,2025-03-15,15920.79
+CMP011,Paid Social Wave 3,Paid Social,2025-04-02,2025-04-29,25590.12
+CMP012,Affiliate Wave 3,Affiliate,2025-05-17,2025-06-13,25022.55
+CMP013,Email Wave 4,Email,2025-07-01,2025-07-28,16776.45
+CMP014,Paid Search Wave 4,Paid Search,2025-08-15,2025-09-11,13745.74
+CMP015,Paid Social Wave 4,Paid Social,2025-09-29,2025-10-26,25538.38
+CMP016,Affiliate Wave 4,Affiliate,2025-11-13,2025-12-10,16469.11

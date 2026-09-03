@@ -1,11 +1,11 @@
-# Notebooks
+# Databricks deployment adapters
 
-This directory contains the Databricks notebooks for the retail analytics pipeline.
+These source-format notebooks show how the governed local data model maps to a medallion deployment. They are optional: the tested core pipeline runs locally with Python and SQLite.
 
-Planned execution order:
+Recommended execution order:
 
-1. 01_data_profiling
-2. 02_bronze_ingestion
-3. 03_silver_cleaning
-4. 04_gold_kpis
-5. 05_pipeline_orchestration
+1. `01_bronze_ingestion.py`
+2. `02_silver_sales.py`
+3. `03_gold_kpis.sql`
+
+Upload the files as Databricks source notebooks, set the source volume/catalog variables for your environment, and schedule them only after replacing the synthetic source contract with approved data.

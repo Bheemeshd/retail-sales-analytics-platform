@@ -1,0 +1,251 @@
+order_id,customer_id,order_date,channel,store_id,campaign_id,status,payment_method
+O0000001,C000669,2025-12-04,Marketplace,,,Completed,Card
+O0000002,C001251,2024-11-23,Web,,,Returned,Card
+O0000003,C002116,2025-04-30,Mobile App,,,Completed,Card
+O0000004,C000024,2025-12-21,Mobile App,,,Cancelled,Digital Wallet
+O0000005,C001530,2024-01-25,Mobile App,,CMP001,Completed,Card
+O0000006,C002955,2025-08-30,Marketplace,,CMP014,Completed,Gift Card
+O0000007,C001933,2024-05-17,Store,S024,,Completed,Card
+O0000008,C001343,2025-08-09,Web,,,Completed,Digital Wallet
+O0000009,C001827,2024-08-07,Web,,,Completed,Card
+O0000010,C001993,2024-02-19,Store,S005,,Completed,Card
+O0000011,C001919,2025-09-16,Store,S013,,Completed,Card
+O0000012,C001354,2024-03-15,Web,,,Completed,Digital Wallet
+O0000013,C001338,2025-06-29,Web,,,Completed,Card
+O0000014,C000608,2024-07-30,Store,S011,,Completed,Digital Wallet
+O0000015,C000955,2024-08-10,Store,S016,,Completed,Bank Transfer
+O0000016,C001831,2025-03-25,Store,S004,,Completed,Card
+O0000017,C002084,2024-04-24,Store,S004,,Completed,Digital Wallet
+O0000018,C001232,2024-08-22,Store,S006,,Completed,Card
+O0000019,C002530,2025-02-28,Store,S014,,Returned,Digital Wallet
+O0000020,C000106,2025-11-24,Mobile App,,,Completed,Card
+O0000021,C001949,2025-04-20,Mobile App,,,Completed,Card
+O0000022,C002935,2024-04-08,Mobile App,,,Completed,Card
+O0000023,C001655,2024-10-16,Store,S014,CMP007,Completed,Bank Transfer
+O0000024,C000141,2025-01-29,Mobile App,,,Completed,Digital Wallet
+O0000025,C002545,2024-09-26,Store,S003,,Completed,Card
+O0000026,C002249,2025-04-12,Web,,CMP011,Completed,Card
+O0000027,C001787,2025-07-20,Store,S011,CMP013,Completed,Digital Wallet
+O0000028,C002210,2024-08-23,Marketplace,,CMP006,Completed,Card
+O0000029,C001642,2024-10-30,Web,,,Completed,Card
+O0000030,C000274,2024-03-01,Store,S004,,Completed,Digital Wallet
+O0000031,C001817,2024-05-25,Mobile App,,CMP004,Completed,Card
+O0000032,C002950,2024-12-15,Marketplace,,CMP008,Completed,Card
+O0000033,C001486,2024-09-04,Web,,,Returned,Card
+O0000034,C001030,2024-12-08,Web,,CMP008,Completed,Card
+O0000035,C002633,2024-04-10,Store,S020,,Completed,Gift Card
+O0000036,C001804,2025-04-16,Web,,,Completed,Card
+O0000037,C000117,2025-04-12,Store,S006,CMP011,Completed,Digital Wallet
+O0000038,C002288,2025-07-14,Mobile App,,,Completed,Card
+O0000039,C002958,2024-04-02,Store,S022,,Completed,Digital Wallet
+O0000040,C001481,2024-06-12,Store,S007,CMP004,Completed,Digital Wallet
+O0000041,C001658,2025-12-13,Store,S010,,Completed,Bank Transfer
+O0000042,C000920,2025-12-12,Store,S002,,Completed,Digital Wallet
+O0000043,C001798,2025-02-28,Marketplace,,CMP010,Completed,Card
+O0000044,C000962,2024-11-23,Store,S012,CMP008,Completed,Card
+O0000045,C000430,2025-09-10,Store,S006,,Completed,Bank Transfer
+O0000046,C002294,2025-04-04,Store,S003,,Completed,Card
+O0000047,C000113,2025-12-31,Web,,,Completed,Card
+O0000048,C001354,2024-08-26,Mobile App,,,Completed,Card
+O0000049,C002515,2024-03-06,Mobile App,,,Completed,Card
+O0000050,C002352,2025-12-18,Store,S022,,Completed,Card
+O0000051,C001392,2025-04-07,Web,,CMP011,Cancelled,Card
+O0000052,C001255,2024-01-29,Web,,,Completed,Card
+O0000053,C000725,2025-03-27,Mobile App,,,Completed,Card
+O0000054,C000686,2024-04-12,Web,,,Completed,Gift Card
+O0000055,C000171,2025-11-28,Web,,,Completed,Card
+O0000056,C002566,2025-03-12,Store,S016,CMP010,Completed,Card
+O0000057,C002161,2024-02-12,Store,S005,,Completed,Card
+O0000058,C001241,2025-01-29,Marketplace,,CMP009,Completed,Card
+O0000059,C000761,2024-08-14,Store,S020,,Completed,Card
+O0000060,C001355,2024-06-30,Mobile App,,,Completed,Digital Wallet
+O0000061,C001732,2025-11-27,Mobile App,,,Completed,Gift Card
+O0000062,C002000,2024-09-16,Web,,,Completed,Card
+O0000063,C001051,2025-11-28,Mobile App,,CMP016,Completed,Card
+O0000064,C002040,2024-12-16,Store,S008,,Completed,Card
+O0000065,C001795,2024-05-26,Mobile App,,,Completed,Bank Transfer
+O0000066,C001893,2024-07-24,Store,S004,CMP005,Completed,Card
+O0000067,C002242,2024-12-17,Web,,,Completed,Card
+O0000068,C000145,2025-07-31,Store,S004,,Returned,Digital Wallet
+O0000069,C002010,2025-09-19,Marketplace,,,Completed,Card
+O0000070,C001229,2025-11-13,Store,S024,CMP016,Completed,Card
+O0000071,C002329,2024-07-18,Mobile App,,,Completed,Card
+O0000072,C000209,2024-07-23,Web,,CMP005,Returned,Card
+O0000073,C000535,2025-05-13,Marketplace,,,Completed,Digital Wallet
+O0000074,C000873,2024-11-10,Store,S015,,Completed,Digital Wallet
+O0000075,C002181,2025-09-25,Web,,,Completed,Digital Wallet
+O0000076,C000601,2024-11-13,Web,,,Completed,Digital Wallet
+O0000077,C002322,2024-12-18,Marketplace,,,Completed,Card
+O0000078,C002740,2024-07-20,Store,S006,,Completed,Card
+O0000079,C001078,2025-04-04,Store,S021,,Completed,Card
+O0000080,C000044,2025-11-16,Store,S013,,Completed,Card
+O0000081,C001402,2024-05-15,Mobile App,,,Completed,Card
+O0000082,C001306,2025-06-05,Store,S008,,Completed,Card
+O0000083,C000309,2024-01-10,Mobile App,,CMP001,Completed,Card
+O0000084,C002809,2024-08-26,Mobile App,,,Completed,Card
+O0000085,C001079,2024-05-27,Web,,CMP004,Completed,Card
+O0000086,C002427,2024-10-30,Web,,CMP007,Completed,Card
+O0000087,C000265,2025-11-20,Mobile App,,,Completed,Gift Card
+O0000088,C001481,2025-12-15,Web,,,Completed,Card
+O0000089,C001679,2025-04-21,Store,S010,,Completed,Card
+O0000090,C001298,2025-01-25,Web,,,Completed,Digital Wallet
+O0000091,C000089,2025-05-24,Store,S005,CMP012,Completed,Digital Wallet
+O0000092,C000275,2024-11-27,Web,,CMP008,Completed,Card
+O0000093,C001758,2024-12-11,Mobile App,,,Completed,Card
+O0000094,C000797,2024-05-10,Mobile App,,,Completed,Gift Card
+O0000095,C001574,2024-05-31,Store,S016,,Completed,Bank Transfer
+O0000096,C001941,2024-09-09,Store,S015,,Completed,Card
+O0000097,C000820,2025-10-23,Marketplace,,,Completed,Card
+O0000098,C001727,2024-03-21,Mobile App,,,Cancelled,Card
+O0000099,C001121,2025-04-11,Mobile App,,,Completed,Card
+O0000100,C002317,2024-11-16,Store,S001,,Completed,Card
+O0000101,C001386,2024-03-24,Mobile App,,,Completed,Card
+O0000102,C001069,2024-08-20,Web,,,Completed,Digital Wallet
+O0000103,C000564,2025-05-27,Store,S024,,Completed,Digital Wallet
+O0000104,C000030,2024-12-23,Web,,,Completed,Gift Card
+O0000105,C002551,2024-10-15,Store,S016,CMP007,Completed,Card
+O0000106,C001825,2025-09-09,Web,,,Completed,Card
+O0000107,C002336,2024-11-01,Web,,,Completed,Digital Wallet
+O0000108,C001034,2024-08-10,Store,S020,,Completed,Gift Card
+O0000109,C002466,2024-06-18,Web,,,Completed,Digital Wallet
+O0000110,C000654,2024-11-14,Mobile App,,,Completed,Card
+O0000111,C000839,2024-05-03,Mobile App,,,Completed,Gift Card
+O0000112,C002879,2025-07-30,Mobile App,,,Completed,Card
+O0000113,C000259,2024-10-14,Mobile App,,CMP007,Completed,Card
+O0000114,C002450,2025-01-11,Web,,CMP009,Completed,Card
+O0000115,C001424,2025-12-12,Marketplace,,,Completed,Card
+O0000116,C002787,2024-06-17,Store,S018,CMP004,Completed,Digital Wallet
+O0000117,C001717,2024-04-24,Web,,,Completed,Card
+O0000118,C002247,2025-02-08,Mobile App,,,Completed,Card
+O0000119,C000638,2025-12-11,Store,S007,,Completed,Bank Transfer
+O0000120,C002615,2024-04-08,Store,S019,CMP003,Completed,Digital Wallet
+O0000121,C001536,2024-08-01,Web,,,Completed,Card
+O0000122,C000402,2025-03-08,Web,,CMP010,Cancelled,Card
+O0000123,C000043,2024-12-03,Web,,,Completed,Card
+O0000124,C002814,2024-06-07,Store,S022,,Completed,Digital Wallet
+O0000125,C000476,2024-11-15,Web,,,Completed,Card
+O0000126,C000275,2025-12-13,Web,,,Completed,Gift Card
+O0000127,C001828,2025-11-06,Store,S003,,Completed,Bank Transfer
+O0000128,C001524,2024-03-02,Store,S017,,Completed,Card
+O0000129,C000291,2024-05-29,Mobile App,,CMP004,Completed,Bank Transfer
+O0000130,C000924,2024-09-25,Mobile App,,,Completed,Card
+O0000131,C002484,2024-08-18,Store,S005,,Returned,Card
+O0000132,C001179,2025-05-24,Web,,CMP012,Completed,Digital Wallet
+O0000133,C001340,2024-11-11,Web,,,Completed,Digital Wallet
+O0000134,C002587,2024-03-05,Store,S009,,Completed,Card
+O0000135,C002512,2024-05-22,Web,,CMP004,Completed,Card
+O0000136,C001194,2025-10-15,Web,,,Completed,Gift Card
+O0000137,C001611,2025-12-15,Marketplace,,,Completed,Digital Wallet
+O0000138,C001283,2024-12-25,Mobile App,,,Completed,Digital Wallet
+O0000139,C002813,2025-03-09,Mobile App,,,Completed,Card
+O0000140,C000969,2025-11-06,Mobile App,,,Completed,Card
+O0000141,C001665,2024-08-14,Web,,,Completed,Gift Card
+O0000142,C002457,2025-01-30,Store,S013,,Completed,Card
+O0000143,C002218,2024-10-05,Web,,,Completed,Card
+O0000144,C001528,2024-05-27,Web,,,Completed,Digital Wallet
+O0000145,C000946,2025-01-23,Web,,CMP009,Completed,Card
+O0000146,C000937,2024-10-02,Marketplace,,,Completed,Card
+O0000147,C002265,2024-02-21,Web,,,Completed,Card
+O0000148,C001277,2024-06-19,Store,S019,,Completed,Card
+O0000149,C000801,2025-09-09,Store,S013,CMP014,Completed,Digital Wallet
+O0000150,C000085,2025-05-27,Store,S020,CMP012,Completed,Card
+O0000151,C002167,2025-05-16,Store,S023,,Completed,Gift Card
+O0000152,C001670,2024-06-19,Web,,,Completed,Card
+O0000153,C000814,2024-01-17,Mobile App,,,Completed,Card
+O0000154,C001636,2025-04-22,Store,S002,,Completed,Card
+O0000155,C002260,2025-11-12,Store,S009,,Returned,Card
+O0000156,C000506,2025-03-24,Web,,,Completed,Digital Wallet
+O0000157,C002997,2025-10-12,Store,S008,CMP015,Completed,Card
+O0000158,C000622,2025-03-13,Store,S014,CMP010,Completed,Card
+O0000159,C002982,2025-01-16,Marketplace,,CMP009,Completed,Card
+O0000160,C002433,2024-09-08,Store,S004,CMP006,Completed,Digital Wallet
+O0000161,C000916,2024-08-12,Store,S014,,Returned,Digital Wallet
+O0000162,C002716,2024-03-08,Marketplace,,CMP002,Completed,Card
+O0000163,C000964,2024-10-20,Mobile App,,CMP007,Completed,Digital Wallet
+O0000164,C000379,2025-12-15,Marketplace,,,Completed,Card
+O0000165,C001464,2025-11-13,Store,S009,CMP016,Cancelled,Card
+O0000166,C002009,2024-04-20,Store,S005,CMP003,Completed,Card
+O0000167,C001203,2025-10-31,Store,S020,,Completed,Digital Wallet
+O0000168,C001839,2024-12-25,Store,S003,,Completed,Digital Wallet
+O0000169,C002988,2025-08-24,Mobile App,,,Completed,Card
+O0000170,C001033,2025-02-02,Web,,,Completed,Card
+O0000171,C002321,2025-12-17,Mobile App,,,Completed,Card
+O0000172,C000984,2025-06-09,Marketplace,,,Completed,Card
+O0000173,C002053,2024-07-25,Store,S024,,Completed,Card
+O0000174,C001782,2024-02-10,Mobile App,,,Completed,Card
+O0000175,C001899,2025-09-15,Marketplace,,,Completed,Card
+O0000176,C002374,2024-09-17,Store,S008,,Completed,Bank Transfer
+O0000177,C001121,2025-07-02,Web,,,Completed,Bank Transfer
+O0000178,C001178,2024-04-28,Marketplace,,,Completed,Card
+O0000179,C002995,2025-12-14,Store,S022,,Completed,Card
+O0000180,C002618,2024-11-28,Marketplace,,,Completed,Digital Wallet
+O0000181,C000501,2025-05-07,Store,S019,,Completed,Card
+O0000182,C002541,2024-03-29,Store,S021,,Completed,Digital Wallet
+O0000183,C002099,2025-02-16,Store,S012,,Completed,Digital Wallet
+O0000184,C001526,2025-10-26,Mobile App,,CMP015,Completed,Card
+O0000185,C001744,2024-11-10,Web,,,Cancelled,Digital Wallet
+O0000186,C000757,2024-11-12,Store,S003,,Completed,Card
+O0000187,C001133,2024-11-14,Web,,,Completed,Digital Wallet
+O0000188,C000381,2025-11-04,Mobile App,,,Completed,Card
+O0000189,C000690,2024-07-08,Web,,,Completed,Card
+O0000190,C002796,2025-06-05,Store,S006,,Completed,Digital Wallet
+O0000191,C001411,2024-05-19,Web,,,Completed,Card
+O0000192,C002480,2024-12-19,Store,S021,,Completed,Card
+O0000193,C000462,2024-11-27,Mobile App,,,Completed,Card
+O0000194,C001684,2025-01-22,Web,,,Completed,Digital Wallet
+O0000195,C000995,2025-05-16,Store,S001,,Completed,Card
+O0000196,C001185,2024-07-27,Mobile App,,CMP005,Completed,Digital Wallet
+O0000197,C001600,2024-12-05,Store,S002,,Completed,Bank Transfer
+O0000198,C002116,2024-11-13,Store,S005,,Returned,Card
+O0000199,C000611,2024-01-21,Web,,,Completed,Card
+O0000200,C002851,2024-10-05,Web,,,Returned,Card
+O0000201,C000188,2024-12-10,Mobile App,,,Completed,Card
+O0000202,C000298,2024-04-15,Marketplace,,,Completed,Digital Wallet
+O0000203,C000493,2024-10-14,Mobile App,,,Completed,Gift Card
+O0000204,C001135,2024-12-27,Marketplace,,,Completed,Gift Card
+O0000205,C001750,2025-12-14,Store,S004,,Completed,Card
+O0000206,C000803,2024-08-02,Store,S007,,Completed,Card
+O0000207,C001228,2025-12-04,Web,,,Completed,Card
+O0000208,C000445,2024-03-27,Store,S014,,Completed,Card
+O0000209,C002399,2024-12-03,Store,S023,,Completed,Bank Transfer
+O0000210,C002484,2024-08-07,Mobile App,,,Completed,Card
+O0000211,C000473,2024-11-24,Mobile App,,,Completed,Card
+O0000212,C000304,2024-09-04,Store,S017,,Completed,Card
+O0000213,C000573,2024-08-13,Store,S014,,Completed,Card
+O0000214,C000048,2024-01-28,Mobile App,,,Completed,Card
+O0000215,C000780,2025-05-07,Store,S017,,Completed,Card
+O0000216,C001188,2024-10-26,Store,S020,,Completed,Card
+O0000217,C001921,2024-02-11,Web,,,Completed,Card
+O0000218,C001548,2025-11-26,Store,S008,,Completed,Card
+O0000219,C002926,2024-02-10,Store,S014,,Completed,Card
+O0000220,C002154,2024-12-26,Store,S013,,Completed,Card
+O0000221,C002243,2025-04-30,Marketplace,,,Completed,Card
+O0000222,C001209,2024-06-23,Web,,,Completed,Card
+O0000223,C001509,2025-06-25,Store,S003,,Completed,Gift Card
+O0000224,C002227,2025-11-30,Store,S012,CMP016,Completed,Card
+O0000225,C002857,2025-05-27,Mobile App,,CMP012,Completed,Digital Wallet
+O0000226,C001194,2024-09-01,Store,S009,CMP006,Completed,Gift Card
+O0000227,C002914,2025-09-06,Web,,,Completed,Card
+O0000228,C002035,2024-12-01,Store,S017,,Completed,Digital Wallet
+O0000229,C000459,2024-11-23,Store,S022,,Completed,Digital Wallet
+O0000230,C002473,2024-03-13,Mobile App,,,Completed,Card
+O0000231,C002403,2024-05-22,Store,S008,,Completed,Card
+O0000232,C002994,2025-11-27,Store,S013,,Completed,Card
+O0000233,C000394,2024-04-29,Web,,,Returned,Bank Transfer
+O0000234,C000872,2024-04-12,Mobile App,,CMP003,Completed,Digital Wallet
+O0000235,C002149,2024-09-27,Marketplace,,,Completed,Card
+O0000236,C002166,2024-05-19,Store,S012,,Completed,Digital Wallet
+O0000237,C000195,2025-06-03,Web,,,Completed,Card
+O0000238,C000679,2025-02-16,Mobile App,,,Completed,Digital Wallet
+O0000239,C002779,2025-11-18,Mobile App,,,Completed,Card
+O0000240,C001269,2025-08-06,Marketplace,,,Completed,Card
+O0000241,C000579,2025-03-16,Web,,,Returned,Card
+O0000242,C000713,2024-08-09,Marketplace,,,Completed,Card
+O0000243,C002131,2024-05-21,Web,,,Completed,Digital Wallet
+O0000244,C000483,2024-05-25,Web,,,Completed,Digital Wallet
+O0000245,C002347,2025-01-22,Web,,,Completed,Card
+O0000246,C001094,2025-02-12,Store,S015,,Completed,Card
+O0000247,C000226,2024-04-29,Mobile App,,,Completed,Digital Wallet
+O0000248,C000223,2025-04-09,Store,S012,,Completed,Bank Transfer
+O0000249,C002453,2024-10-15,Store,S016,,Completed,Digital Wallet
+O0000250,C000378,2025-05-18,Mobile App,,,Returned,Bank Transfer

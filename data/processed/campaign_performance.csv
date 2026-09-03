@@ -1,0 +1,17 @@
+campaign_id,campaign_name,marketing_channel,spend,attributed_orders,attributed_revenue,attributed_gross_profit,attributed_roas
+CMP008,Affiliate Wave 2,Affiliate,18102.76,421,62996.31,21462.85,3.48
+CMP016,Affiliate Wave 4,Affiliate,16469.11,403,60908.13,20645.23,3.7
+CMP005,Email Wave 2,Email,23610.7,201,31940.25,10896.27,1.35
+CMP009,Email Wave 3,Email,13558.47,200,31469.42,10674.16,2.32
+CMP010,Paid Search Wave 3,Paid Search,15920.79,187,29714.43,10212.36,1.87
+CMP004,Affiliate Wave 1,Affiliate,13393.47,185,29443.93,10226.14,2.2
+CMP006,Paid Search Wave 2,Paid Search,12482.4,186,29409.75,9870.46,2.36
+CMP002,Paid Search Wave 1,Paid Search,17255.6,195,28758.0,10062.41,1.67
+CMP007,Paid Social Wave 2,Paid Social,12955.19,188,28307.39,9625.23,2.19
+CMP015,Paid Social Wave 4,Paid Social,25538.38,197,27770.15,9559.93,1.09
+CMP011,Paid Social Wave 3,Paid Social,25590.12,172,27109.44,9156.03,1.06
+CMP014,Paid Search Wave 4,Paid Search,13745.74,175,26727.67,8954.74,1.94
+CMP012,Affiliate Wave 3,Affiliate,25022.55,194,26380.11,9237.12,1.05
+CMP001,Email Wave 1,Email,17131.27,172,26047.99,9234.6,1.52
+CMP003,Paid Social Wave 1,Paid Social,25125.84,180,25901.23,8950.71,1.03
+CMP013,Email Wave 4,Email,16776.45,189,24577.55,8435.96,1.47

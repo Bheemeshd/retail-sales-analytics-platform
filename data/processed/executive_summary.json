@@ -1,0 +1,18 @@
+{
+  "synthetic_data": true,
+  "total_revenue": 2697564.36,
+  "gross_profit": 1070700.04,
+  "gross_margin_pct": 0.3969,
+  "completed_orders": 16560,
+  "active_customers": 2986,
+  "units_sold": 38404,
+  "average_order_value": 162.9,
+  "return_rate": 0.0501,
+  "latest_month": "2025-12",
+  "latest_month_revenue": 210193.68,
+  "latest_month_yoy_pct": -0.0389,
+  "top_category": "Electronics",
+  "top_category_revenue": 1096810.2,
+  "top_channel": "Store",
+  "top_channel_revenue": 1128154.58
+}

@@ -1,0 +1,25 @@
+store_id,store_city,region,store_format,revenue,gross_profit,orders
+S007,Marseille,South,High Street,53086.88,21052.84,303
+S010,Toulouse,South,Retail Park,52802.84,20381.24,298
+S016,Strasbourg,East,Retail Park,52548.32,21154.79,312
+S012,Nice,South,Retail Park,52316.29,20690.25,310
+S017,Grenoble,East,High Street,51797.49,20022.86,317
+S014,Lyon,East,Retail Park,51010.72,20262.48,311
+S020,Rennes,West,Retail Park,49329.98,19557.62,298
+S018,Grenoble,East,Retail Park,48364.52,18888.64,298
+S015,Strasbourg,East,High Street,48093.04,18806.93,294
+S011,Nice,South,High Street,47411.79,18998.11,284
+S001,Lille,North,High Street,47360.26,19211.1,297
+S013,Lyon,East,High Street,46220.13,18207.08,289
+S021,Nantes,West,High Street,45982.88,18243.99,291
+S009,Toulouse,South,High Street,45624.61,18041.49,290
+S008,Marseille,South,Retail Park,45456.95,18450.24,269
+S004,Rouen,North,Retail Park,45452.26,18055.27,274
+S002,Lille,North,Retail Park,45343.92,18382.0,298
+S003,Rouen,North,High Street,45163.99,17931.1,285
+S024,Bordeaux,West,Retail Park,44896.22,18263.55,292
+S006,Amiens,North,Retail Park,43563.06,17162.71,276
+S005,Amiens,North,High Street,42518.17,16927.94,280
+S022,Nantes,West,Retail Park,42158.46,16755.26,262
+S019,Rennes,West,High Street,41339.82,16467.36,270
+S023,Bordeaux,West,High Street,40311.98,15953.02,268
