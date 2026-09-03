@@ -1,0 +1,21 @@
+name: quality-checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run unit and integration tests
+        run: python -m unittest discover -s tests -v
+      - name: Reproduce the complete pipeline
+        run: python scripts/run_pipeline.py
+      - name: Verify working tree remains reproducible
+        run: git diff --exit-code
