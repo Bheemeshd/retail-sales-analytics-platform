@@ -1,0 +1,9 @@
+[project]
+name = "retail-sales-analytics-platform"
+version = "1.0.0"
+description = "Reproducible retail sales analytics portfolio project"
+requires-python = ">=3.9"
+
+[tool.ruff]
+line-length = 120
+target-version = "py39"

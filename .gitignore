@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+data/processed/*.db
+data/raw/*.csv
+data/processed/customer_360.csv
+powerbi/extracts/*.csv
